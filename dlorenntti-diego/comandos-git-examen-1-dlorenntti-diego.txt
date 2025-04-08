@@ -1,0 +1,33 @@
+﻿Historial Comandos de GIT
+
+
+1. git clone https://github.com/diegohazel/ISW-EB1-2025.git
+
+
+contexto(Agregue la captura de las notas del Teorico)
+
+
+2. git status
+3. git add .
+4. git status
+5. git commit -m “subiendo nota”
+6. git push origin main
+
+
+                contexto (agregue el excalidraw)
+
+
+7. git status
+8. git add .
+9. git status
+10. git commit -m "subiendo diagrama de flujo"
+11. git push origin main
+JUSTIFICACION [me equivoque  en el nombre puse "subiendo comandos" del segundo commit, no aprete bien el comand v y comand c cuando quise copiar]
+
+
+                contexto (agregue este txt)
+12. git status
+13. git add .
+14. git status
+15. git commit -m “subiendo comandos”
+16. git push origin main
