@@ -1,0 +1,10 @@
+Paso 1: git clone https://github.com/Benja-Oliva/ISW-EB1-2025.git
+Paso 2: git status
+Paso 3: git add .
+Paso 4: git commit -m "subiendo nota"
+Paso 5: git push origin main
+Paso 6: git status
+Paso 7: git add .
+Paso 8: git status (Verificar cambios)
+Paso 9: git commit -m "subiendo diagrama de flujo"
+Paso 10: git push origin main
