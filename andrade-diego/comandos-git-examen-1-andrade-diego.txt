@@ -1,0 +1,5 @@
+Lista de Comandos de Git
+- Git Clone: Se uso para clonar el repositorio a mi dispositivo
+- Git ls: Lo use para ver que archivos habia dentro
+- Git status: Lo use para ver si habia algun archivo subido y luego lo use para comprobar que si se habian subido los archivos del diagrama y la nota
+- Git add .: Lo use para agregar la imagen de la nota, el diagrama de flujo, y este txt
