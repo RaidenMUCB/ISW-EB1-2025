@@ -1,0 +1,12 @@
+1. git clone https://github.com/DiegoVillazonArce/ISW-EB1-2025.git
+Cerramos el Bash y lo volvemos a abrir, pero dentro de la carpeta del repositorio
+Despues de crear la nueva carpeta y guardar la imagen de la nota ahi
+2. git status (para ver lo que cambió)
+3. git add villazon-diego/
+4. git commit -m "Carpeta" 
+5. git push origin main
+Despues de agregar la imagen del diagrama de flujo
+6. git status (para ver lo que cambió)
+7. git add villazon-diego/elementos-diagrama-de-flujo.png
+8. git commit -m "Subiendo diagrama de flujo"
+9. git push origin main
