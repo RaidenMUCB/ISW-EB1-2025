@@ -1,0 +1,31 @@
+// Abro git bash
+
+cd Desktop/
+
+git clone https://github.com/Duranzzz/ISW-EB1-2025.git
+
+cd ISW-EB1-2025/
+
+mkdir duran-leonardo
+
+git status
+
+git add .
+
+git commit -m "subiendo nota" 
+
+git push origin main
+
+git status
+
+git add .
+
+git commit -m "subiendo diagrama de flujo"
+
+git push
+
+git status 
+
+git add .
+
+git commit -m "subiendo comandos"
