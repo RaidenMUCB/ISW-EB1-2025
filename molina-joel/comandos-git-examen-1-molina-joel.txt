@@ -1,0 +1,10 @@
+Comandos utilizados en orden hasta el paso 6:
+-git clone https://github.com/joelmolina-2/ISW-EB1-2025.git
+-git status
+-git add .
+-git commit -m "subiendo nota"
+-git push origin main
+-git status
+-git add .
+-git commit -m "subiendo diagrama de flujo"
+-git push origin main
