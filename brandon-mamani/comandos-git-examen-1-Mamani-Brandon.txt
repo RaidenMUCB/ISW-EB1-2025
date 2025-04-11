@@ -1,0 +1,17 @@
+git clone https://github.com/Kevin07k/ISW-EB1-2025.git
+ls
+cd ISW-EB1-2025/
+ls
+mkdir brandon-mamani
+ls
+git status
+git add .
+git commit -m "subiendo nota"
+git push origin main
+git status
+git add .
+git commit -m "subiendo diagram de flujo"
+git push origin main
+git status
+git commit -m "subiendo comandos"
+git push origin main
