@@ -12,4 +12,6 @@ git status
 git add .
 git commit -m "subiendo diagram de flujo"
 git push origin main
-
+git status
+git commit -m "subiendo comandos"
+git push origin main
