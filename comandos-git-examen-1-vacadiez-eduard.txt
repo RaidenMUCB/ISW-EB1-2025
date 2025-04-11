@@ -1,0 +1,7 @@
+comandos-git-examen-1-[apellido paterno]-[nombre].txt"
+
+#lista de comandos utilizados
+	##1.- git clone (para clonar el repositorio del inge:)
+	##2.- git status (para comprobar el estado del archivo a subir. En este caso la captura de pantalla de la prueba teorica).
+	##3.- git commit -m "Subiendo nota"  (Para subir el archivo a la nube)
+	##4.- git push origin main (El archivo ya se subio)
