@@ -1,0 +1,11 @@
+Lista de comandos:
+1. git clone  
+2. git status 
+3. git add .
+4. git status
+5. git commit -m ""
+6. git push origin main
+7. git status
+8. git commit -m "subiendo diagrama de flujo"
+9. git push
+10. 
