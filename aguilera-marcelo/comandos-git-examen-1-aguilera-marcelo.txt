@@ -1,0 +1,16 @@
+$ git clone 
+Usado para copiar el repositorio de github a la compu de manera local.
+
+$ git status 
+Usado para ver el estado de el repositorio local.
+
+$ git add . 
+Usado para guardar los cambios en el repositorio de github, osea se guarda la carpeta.
+
+$ git commit -m "subiendo nota"
+Usado para mandar mensaje de subiendo nota.
+
+$ git status
+
+$ git commit -m "subiendo diagrama de flujo"
+
