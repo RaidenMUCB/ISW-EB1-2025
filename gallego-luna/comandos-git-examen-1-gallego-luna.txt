@@ -1,0 +1,6 @@
+-Git Fork
+-Git status
+-Git add .
+-Git commit -m ""
+-git push
+-pull request
