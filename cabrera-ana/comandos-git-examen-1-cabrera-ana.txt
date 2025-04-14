@@ -1,0 +1,13 @@
+git clone https://github.com/anaaacg/ISW-EB1-2025.git
+
+git status
+git add .
+git status
+git commit -m "subiendo nota"
+git push origin main
+
+git status
+git add .
+git status
+git commit -m "subiendo diagrama de flujo"
+git push origin main
