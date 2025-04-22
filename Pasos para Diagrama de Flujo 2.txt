@@ -1,0 +1,10 @@
+1. Inicio
+2. Si hay café
+  Si hay café, continuar al paso 3
+  si no, 2.1 comprar café. Ir al paso 2 nuevamente
+3. Hervir agua 
+4. Agregar la cantidad deseada de café.
+5. Llenar la taza con agua caliente.
+6. Agregar azúcar o leche a gusto
+7. Mezclar bien los ingredientes.
+8. Fin
