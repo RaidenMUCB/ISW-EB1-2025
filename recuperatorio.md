@@ -22,26 +22,34 @@ Por ej:
   **OJO: No escribir los símbolos [], escribir todo en minúscula y sin tildes**
 3. Dentro de la carpeta creada recientemente crear un archivo .txt, o llamado también "Bloc de notas". En inglés se llama "Notepad". Poner de nombre al archivo "notas recuperatorio.txt"
   **OJO: No escribir los símbolos [], escribir todo en minúscula y sin tildes**
-4. Dentro del archivo "notas recuperatorio.txt" escribir en la primera línea tu nombre completo y guardar los cambios. Adicionalmente, escribir un párrafo de mínimo 50 palabras sobre la importancia del Ciclo de Vida del Software.
-5. Comprobar el estado del repositorio.
+4. Notas Recuperatorio
+4.1. Dentro del archivo "notas recuperatorio.txt" escribir en la primera línea tu nombre completo y guardar los cambios. Adicionalmente, escribir un párrafo de mínimo 25 palabras sobre la importancia del Ciclo de Vida del Software.
+4.2. Comprobar el estado del repositorio.
    Añadir el cambio
    Confirmar el cambio con el mensaje "subiendo apuntes"
    Subir cambio a tu repositorio remoto en Github en la rama "main"
    Guardar estos comandos en "comandos-recuperatorio-1-[apellido paterno]-[apellido materno]-[nombre].txt" en el orden correcto
-6. Dentro de la carpeta creada recientemente subir una imagen exportada de Excalidraw de un diagrama de flujo siguiendo los pasos del archivo de texto "Pasos para Diagrama de flujo 2.txt" con los elementos propuestos en el archivo imagen "elementos diagrama de flujo.png"
-7. Comprobar de nuevo el estado del repositorio.
+
+5. Diagrama de flujo
+5.1. Dentro de la carpeta creada recientemente subir una imagen exportada de Excalidraw de un diagrama de flujo siguiendo los pasos del archivo de texto "Pasos para Diagrama de flujo 2.txt" con los elementos propuestos en el archivo imagen "elementos diagrama de flujo.png"
+5.2. Comprobar de nuevo el estado del repositorio.
    Añadir el cambio
    Confirmar el cambio con el mensaje "subiendo diagrama de flujo"
    Subir cambio a tu repositorio remoto en Github en la rama "main"
    Guardar estos comandos en "comandos-recuperatorio-1-[apellido paterno]-[apellido materno]-[nombre].txt" en el orden correcto
-8. Dentro de la carpeta creada recientemente subir el archivo de comandos creado hasta el paso anterior
-9. Comprobar de nuevo el estado del repositorio.
+
+6. Comandos
+6.1. Dentro de la carpeta creada recientemente subir el archivo de comandos creado hasta el paso anterior
+6.2. Comprobar de nuevo el estado del repositorio.
    Añadir el cambio
    Confirmar el cambio con el mensaje "subiendo comandos"
    Subir cambio a tu repositorio remoto en Github en la rama "main"
-10. Hacer Pull Request al repositorio "RaidenMUCB/ISW-EB1-2025" de RaidenMakio desde tu rama principal en Github. Al enviar el Pull Request, adjuntar en la Tarea del LMS "Entrega del Examen práctico Elemento 1" el documento txt con los comandos ejecutados
+7. Hacer Pull Request al repositorio "RaidenMUCB/ISW-EB1-2025" de RaidenMakio desde tu rama principal en Github.
+8. Notificar presencialmente al profesor de que se ha realizado el Pull Request. El profesor solicitará realizar cambios que se deben realizar en su equipo, realizar los comandos git correspondientes y subir los cambios al repositorio de Github para verificar que se realizaron las observaciones correctamente.
+9. Al enviar el Pull Request, adjuntar en la Tarea del LMS "Entrega del Examen práctico Elemento 1" el documento txt con los comandos ejecutados
 
 - Cada punto del examen práctico vale 10 puntos de la nota.
-- Debe completarse tal cual está descrito para conseguir los 10 puntos. 
-- De estar incompleto vale 0 puntos.
+- Debe completarse tal cual está descrito para conseguir los 10 puntos.
+- De estar incompleto vale 0-5 puntos.
+- Solo el punto 8 vale 20 puntos.
 - La sumatoria de los puntos del examen práctico entregan la nota final del examen recuperatorio de bloque 1.
