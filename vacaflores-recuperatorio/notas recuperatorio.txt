@@ -1,0 +1,2 @@
+Moises Vacaflores Melgar
+La importancia del ciclo de vida de software es un proceso por el cual el software pasa una serie de pasos en donde se controla la calidad del software y sea desarrollado como lo pida el cliente.
