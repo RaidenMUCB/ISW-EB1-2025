@@ -6,14 +6,23 @@ HISTORIAL AL DE COMANDOS GIT
 4. git status
 5. git commit -m “subiendo nota”
 6. git push origin main
-Historial Comandos de GIT
 
 
 
+-(subiendo importancia del ciclo de vida de un sofware)
 
-2. git status
-3. git add .
-4. git status
-5. git commit -m “subiendo nota”
-6. git push origin main
+7. git status
+8. git add .
+9. git status
+10.git commit -m “subiendo apuntes”
+11.git push origin main
+
+(subiendo diagrama de flujo)
+
+7. git status
+8. git add .
+9. git status
+10.git commit -m “subiendo diagrama de flujo”
+11.git push origin main
+
 
