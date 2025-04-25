@@ -1,0 +1,12 @@
+1- git clone https://github.com/AlvaroCortezB/ISW-EB1-2025.git
+2- git status
+3- git add .
+4- git status
+5- git commit -m "subiendo apuntes"
+6- git push 
+7- git status
+8- git add .
+9- git status
+10-git commit -m "subiendo diagrama de flujo"
+11-git push
+12-

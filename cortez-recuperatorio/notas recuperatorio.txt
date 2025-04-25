@@ -1,0 +1,4 @@
+Alvaro Enrique Cortez Barron
+
+La importancia del ciclo de vida del Sotfware es fundamental para poder programar los recursos que se usaran,
+ el tiempo de trabajo y la cantidad de actualizaciones o modificaciones que puede tener el software.
