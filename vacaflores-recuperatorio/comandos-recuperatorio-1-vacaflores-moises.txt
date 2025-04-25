@@ -1,0 +1,8 @@
+1.git clone https://github.com/moivfm/ISW-EB1-2025.git
+2.git status
+3.git add .
+4.git commit -m "subiendo apuntes"
+5.git status
+6.git add .
+7.git commit -m "subiendo diagrama de flujo"
+8.git push 
