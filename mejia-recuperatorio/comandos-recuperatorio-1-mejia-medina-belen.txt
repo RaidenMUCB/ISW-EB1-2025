@@ -1,0 +1,13 @@
+git clone  
+git status
+git add .
+git commit -m "subiendo apuntes"
+git push
+git status
+git commit -m "subiendo diagrama de flujo"
+git add .
+git status
+git commit -m "subiendo comandos"
+git push
+
+ 
