@@ -1,0 +1,4 @@
+Mejia Medina Belen
+
+La importancia del ciclo de vida del software radica en como puede llegar a ayudar en el momento que se crea un programa, aplicacion web, etc.
+Si se subestima al ciclo de vida del software o simplemente no se lo toma en cuenta durante el proceso puede el proyecto tener muchas fallas.
