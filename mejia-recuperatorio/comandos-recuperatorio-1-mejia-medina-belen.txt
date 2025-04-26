@@ -1,0 +1,5 @@
+git clone (usado para clonar el repositorio)
+git status (para ver el estado de mis documentos)
+git add . (para subir los cambios)
+git commit -m "mensaje" (para guardar los cambios)
+git push (para subir al repositorio de GitHub)
